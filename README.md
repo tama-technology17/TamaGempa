@@ -18,3 +18,7 @@ TamaGempa dikembangkan untuk memudahkan masyarakat mengakses informasi gempa bum
 Catatan: TamaGempa merupakan aplikasi informasi pendukung, bukan pengganti peringatan resmi dari BMKG atau arahan pihak berwenang. Selalu ikuti informasi dan instruksi resmi saat terjadi bencana.
 
 © TamaTechnology
+
+
+
+https://tama-technology17.itch.io/tama-gempa
